@@ -1,0 +1,20 @@
+README.md
+setup.py
+src/Chicken_desies_classification.egg-info/PKG-INFO
+src/Chicken_desies_classification.egg-info/SOURCES.txt
+src/Chicken_desies_classification.egg-info/dependency_links.txt
+src/Chicken_desies_classification.egg-info/top_level.txt
+src/Your project name/__init__.py
+src/Your project name/components/__init__.py
+src/Your project name/constants/__init__.py
+src/Your project name/entity/__init__.py
+src/Your project name/pipeline/__init__.py
+src/Your project name/utils/__init__.py
+src/cnnClassifier/__init__.py
+src/cnnClassifier/components/__init__.py
+src/cnnClassifier/config/__init__.py
+src/cnnClassifier/config/configuration.py
+src/cnnClassifier/constants/__init__.py
+src/cnnClassifier/entity/__init__.py
+src/cnnClassifier/pipeline/__init__.py
+src/cnnClassifier/utils/__init__.py

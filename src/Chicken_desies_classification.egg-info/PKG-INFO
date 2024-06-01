@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: Chicken_desies_classification
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/Dhruv2816/Chicken_desies_classification
+Author: Dhruv2816
+Author-email: Dhruvsingh9893@gmail.com
+Project-URL: Bug Tracker, https://github.com/Dhruv2816/Chicken_desies_classification/issues
+
+## This is a Project  based on predicting desises in chickens.
